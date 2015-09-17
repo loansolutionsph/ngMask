@@ -1,8 +1,15 @@
 {
-  "name": "mask",
+  "name": "ngMask",
   "version": "3.0.16",
-  "description": "Best ngMask",
-  "main": "Gruntfile.js",
+  "description": "Best ngMask for AngularJS",
+  "homepage": "https://github.com/candreoliveira/ngMask",
+  "main": "dist/ngMask.js",
+  "keywords": [
+    "angular",
+    "mask",
+    "ngMask",
+    "best"
+  ],
   "devDependencies": {
     "bump": "~0.2.5",
     "glob": "~4.0.2",
